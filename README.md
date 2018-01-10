@@ -8,3 +8,6 @@ Tools: Pandas, Seaborn, Matplotlib, scikit-learn, Tensorflow
 - ### Data Analysis and Visualization
   - Python
     - [Stock Market Analysis of Tech Stocks](https://github.com/melvfernandez/data__scientist_portfolio/blob/master/Stock%20Market%20Analysis%20for%20Tech%20Stocks.ipynb): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+
+- ### Machine Learning
+  - Under construction
