@@ -14,5 +14,4 @@ Tools: Pandas, Seaborn, Matplotlib, scikit-learn, Tensorflow
 
 - ## Machine Learning
   - ### Supervised Learning
-     Supervised learning problems are categorized into "regression" and "classification" problems.
     - [K-Nearest Neighbors - Social Network Ads Dataset](https://github.com/melvfernandez/data_science_portfolio/blob/master/K_Nearest_Neighbors/K-Nearest%20Neighbors%20On%20Social%20Network%20Ads.ipynb): Using K-NN on customers that bought a SUV from a social network ad.
