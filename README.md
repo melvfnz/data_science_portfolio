@@ -6,11 +6,6 @@ Tools
   - **R Programming**: tidyverse, ggplot
 
 ## Contents
-
-- ## Machine Learning
-  - ### Supervised Learning
-    - [K-Nearest Neighbors - Social Network Ads Dataset](https://github.com/melvfernandez/data_science_portfolio/blob/master/K_Nearest_Neighbors/K-Nearest%20Neighbors%20On%20Social%20Network%20Ads.ipynb): Using K-NN on customers that bought a SUV from a social network ad.
-
 - ## Data Analysis and Visualization
   - ### Python
     - [Cryptocurrency Market Analysis](https://github.com/melvfernandez/data_science_portfolio/blob/master/Cryptocurrency%20Market%20Analysis.ipynb): Based off my stock market analysis of tech stocks. Change in price over time, daily returns, and behaviour prediction.
@@ -19,4 +14,8 @@ Tools
     - [Exploratory Data Analysis - House Prices](https://github.com/melvfernandez/data_science_portfolio/blob/master/Exploratory%20Data%20Analysis%20of%20House%20Prices.ipynb): Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
    - ### R Programming
       - *Under Construction (Working Knowledge)*
+- ## Machine Learning
+  - ### Supervised Learning
+    - [K-Nearest Neighbors - Social Network Ads Dataset](https://github.com/melvfernandez/data_science_portfolio/blob/master/K_Nearest_Neighbors/K-Nearest%20Neighbors%20On%20Social%20Network%20Ads.ipynb): Using K-NN on customers that bought a SUV from a social network ad.
 
+If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at melvfernandez@gmail.com.
