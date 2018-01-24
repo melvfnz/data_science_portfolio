@@ -19,3 +19,6 @@ Tools
     - [K-Nearest Neighbors - Social Network Ads Dataset](https://github.com/melvfernandez/data_science_portfolio/blob/master/K_Nearest_Neighbors/K-Nearest%20Neighbors%20On%20Social%20Network%20Ads.ipynb): Using K-NN on customers that bought a SUV from a social network ad.
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at melvfernandez@gmail.com.
+
+Feel free to follow me on my other social media:
+
