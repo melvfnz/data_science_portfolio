@@ -3,7 +3,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 Tools
   - Python: Pandas, Seaborn, Matplotlib, scikit-learn, Tensorflow
-  - R: tidyverse, ggplot
+  - R Programming: tidyverse, ggplot
 
 ## Contents
 
