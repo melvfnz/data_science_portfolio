@@ -18,5 +18,5 @@ Tools
     - [Simple Linear Regression](https://github.com/melvfernandez/data_science_portfolio/blob/master/Simple%20Linear%20Regression.ipynb): Small playground to summarize and study relationships between two continuous variables from a randomized dataset.
     - [Exploratory Data Analysis - House Prices](https://github.com/melvfernandez/data_science_portfolio/blob/master/Exploratory%20Data%20Analysis%20of%20House%20Prices.ipynb): Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
    - ### R Programming
-      - *Under Construction*
+      - *Under Construction (Working Knowledge)*
 
