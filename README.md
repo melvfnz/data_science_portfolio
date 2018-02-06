@@ -17,6 +17,7 @@ Tools
 - ## Natural Language Processing
   - ### Python
     - [Personal Notes on NLTK](https://github.com/melvfnz/data_science_portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
+    
     _Tools: NLTK, scikit_
 - ## Machine Learning
   - ### Supervised Learning
