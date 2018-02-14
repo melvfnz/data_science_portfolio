@@ -19,7 +19,7 @@ Tools
     - [Personal Notes on NLTK](https://github.com/melvfnz/data_science_portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
     
     _Tools: NLTK, scikit_
-- ## Machine Learning
+- ## Machine Learning / Computer Vision
   - ### Supervised Learning
     - [K-Nearest Neighbors - Social Network Ads Dataset](https://github.com/melvfernandez/data_science_portfolio/blob/master/K_Nearest_Neighbors/K-Nearest%20Neighbors%20On%20Social%20Network%20Ads.ipynb): Using K-NN on customers that bought a SUV from a social network ad.
 
