@@ -14,7 +14,6 @@ Tools
     - [Exploratory Data Analysis - House Prices](https://github.com/melvfernandez/data_science_portfolio/blob/master/Exploratory%20Data%20Analysis%20of%20House%20Prices.ipynb): Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
    - ### R Programming
       - *Under Construction (Working Knowledge)*
-
   - ## Machine Learning
     - [K-Nearest Neighbors - Social Network Ads Dataset](https://github.com/melvfernandez/data_science_portfolio/blob/master/K_Nearest_Neighbors/K-Nearest%20Neighbors%20On%20Social%20Network%20Ads.ipynb): Using K-NN on customers that bought a SUV from a social network ad.
      - [Machine Learning Regression](https://github.com/melvfnz/data_science_portfolio/blob/master/Regression%20-%20Machine%20Learning.ipynb): Importing from quandl (financial and economical data) to create a simple regression.
