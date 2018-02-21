@@ -14,15 +14,14 @@ Tools
     - [Exploratory Data Analysis - House Prices](https://github.com/melvfernandez/data_science_portfolio/blob/master/Exploratory%20Data%20Analysis%20of%20House%20Prices.ipynb): Simple analysis of house prices including quick visualizations with correlation plots and heat maps.
    - ### R Programming
       - *Under Construction (Working Knowledge)*
-- ## Natural Language Processing
-  - ### Python
-    - [Personal Notes on NLTK](https://github.com/melvfnz/data_science_portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
-    
-    _Tools: NLTK, scikit_
-- ## Machine Learning / Computer Vision
-  - ### Supervised Learning
+
+  - ## Machine Learning
     - [K-Nearest Neighbors - Social Network Ads Dataset](https://github.com/melvfernandez/data_science_portfolio/blob/master/K_Nearest_Neighbors/K-Nearest%20Neighbors%20On%20Social%20Network%20Ads.ipynb): Using K-NN on customers that bought a SUV from a social network ad.
+     - [Machine Learning Regression](https://github.com/melvfnz/data_science_portfolio/blob/master/Regression%20-%20Machine%20Learning.ipynb): Importing from quandl (financial and economical data) to create a simple regression.
+     - [Personal Notes on NLTK](https://github.com/melvfnz/data_science_portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
 
 If you enjoyed what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to contact me on:
-  - [Twitter](https://twitter.com/melvfnz)
+    - [LinkedIn](https://www.linkedin.com/in/melvfernandez/)
+    - [Twitter](https://twitter.com/melvfnz)
+  
 
