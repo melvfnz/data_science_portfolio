@@ -19,9 +19,10 @@ Tools
     - [K-Nearest Neighbors - Social Network Ads Dataset](https://github.com/melvfernandez/data_science_portfolio/blob/master/K_Nearest_Neighbors/K-Nearest%20Neighbors%20On%20Social%20Network%20Ads.ipynb): Using K-NN on customers that bought a SUV from a social network ad.
      - [Monte Carlo Model - Cryptocurrency](https://github.com/melvfernandez/data_science_portfolio/blob/master/Cryptocurrency%20Market%20Analysis.ipynb): Using a probabilistic model on cryptocurrency to find an approximate solution to a numerical problem that would be difficult to solve by other methods.
      - [Machine Learning Regression - Financial Market](https://github.com/melvfnz/data_science_portfolio/blob/master/Regression%20-%20Machine%20Learning.ipynb): Importing from quandl (financial and economical data) to create a simple regression.
-     - [Personal Notes on NLTK](https://github.com/melvfnz/data_science_portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
+    
      
 - ## Minor Projects
+    - [Personal Notes on NLTK](https://github.com/melvfnz/data_science_portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
     - [Intro to BigQuery](https://github.com/melvfnz/data_science_portfolio/blob/master/Intro%20to%20BigQuery%20.ipynb)
     - [Breast Cancer Analysis](https://github.com/melvfnz/data_science_portfolio/blob/master/Breast%20Cancer%20Analysis.ipynb)
 
