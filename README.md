@@ -22,7 +22,7 @@ Tools
     
      
 - ## Minor Projects
-    - [Personal Notes on NLTK](https://github.com/melvfnz/data_science_portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
+    - [Personal Notes on Natural Language Processing Toolkit](https://github.com/melvfnz/data_science_portfolio/blob/master/Natural%20Language%20Processing%20Personal%20Notes.ipynb)
     - [Intro to BigQuery](https://github.com/melvfnz/data_science_portfolio/blob/master/Intro%20to%20BigQuery%20.ipynb)
     - [Breast Cancer Analysis](https://github.com/melvfnz/data_science_portfolio/blob/master/Breast%20Cancer%20Analysis.ipynb)
 
